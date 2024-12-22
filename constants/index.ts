@@ -67,6 +67,7 @@ export const fuels = [
   {
     title: "Electricity",
     value: "Electricity",
+    
   },
 ];
 
