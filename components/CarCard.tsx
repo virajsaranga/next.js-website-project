@@ -8,6 +8,7 @@ import { CarProps } from "@types";
 import CustomButton from "./CustomButton";
 import CarDetails from "./CarDetails";
 
+/// use props
 interface CarCardProps {
   car: CarProps;
 }
