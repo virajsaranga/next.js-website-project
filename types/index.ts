@@ -1,5 +1,6 @@
 import { MouseEventHandler } from "react";
 
+//props add
 export interface CarProps {
   city_mpg: number;
   class: string;
