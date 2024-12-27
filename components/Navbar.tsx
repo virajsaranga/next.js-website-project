@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 
+//custom button add
 import CustomButton from "./CustomButton";
 
 const NavBar = () => (
