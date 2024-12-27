@@ -5,6 +5,7 @@ import { Dialog, Transition } from "@headlessui/react";
 import { CarProps } from "@types";
 import { generateCarImageUrl } from "@utils";
 
+//add props
 interface CarDetailsProps {
   isOpen: boolean;
   closeModal: () => void;
