@@ -6,6 +6,7 @@ import { ShowMoreProps } from "@types";
 import { updateSearchParams } from "@utils";
 import { CustomButton } from "@components";
 
+// show more page numbers
 const ShowMore = ({ pageNumber, isNext }: ShowMoreProps) => {
   const router = useRouter();
 
