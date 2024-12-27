@@ -12,7 +12,7 @@ import CarDetails from "./CarDetails";
 interface CarCardProps {
   car: CarProps;
 }
-
+// add card function
 const CarCard = ({ car }: CarCardProps) => {
   const { city_mpg, year, make, model, transmission, drive } = car;
 
