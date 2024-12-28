@@ -2,6 +2,7 @@
 //image add
 import Image from "next/image";
 
+//custom button add
 import { CustomButton } from "@components";
 
 const Hero = () => {
