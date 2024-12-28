@@ -55,6 +55,7 @@ export default function CustomFilter({ title, options }: CustomFilterProps) {
                 >
                   {({ selected }) => (
                     <>
+                    
                       <span className={`block truncate ${selected ? "font-medium" : "font-normal"}`} >
                         {option.title}
                       </span>
