@@ -31,7 +31,7 @@ const SearchBar = () => {
     if (manufacturer.trim() === "" && model.trim() === "") {
       return alert("Please provide some input");
     }
-
+//update search params
     updateSearchParams(model.toLowerCase(), manufacturer.toLowerCase());
   };
 
