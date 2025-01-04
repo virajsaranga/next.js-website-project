@@ -42,7 +42,7 @@ export const manufacturers = [
   "Volkswagen",
   "Volvo",
 ];
-//   "Acura",
+//"Acura",
 export const yearsOfProduction = [
   { title: "Year", value: "" },
   { title: "2015", value: "2015" },
