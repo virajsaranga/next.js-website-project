@@ -1,6 +1,6 @@
 import { Fragment } from "react";
 import Image from "next/image";
-
+//add headless ui
 import { Dialog, Transition } from "@headlessui/react";
 import { CarProps } from "@types";
 import { generateCarImageUrl } from "@utils";
