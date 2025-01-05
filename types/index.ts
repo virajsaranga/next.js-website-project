@@ -15,7 +15,7 @@ export interface CarProps {
   transmission: string;
   year: number;
 }
-
+//props add
 export interface FilterProps {
   manufacturer?: string;
   year?: number;
