@@ -1,5 +1,5 @@
 "use client";
-
+// Import the Image component from the next/image module
 import Image from "next/image";
 
 import { CustomButtonProps } from "@types";
