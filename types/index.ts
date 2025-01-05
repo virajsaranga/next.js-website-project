@@ -23,7 +23,7 @@ export interface FilterProps {
   limit?: number;
   fuel?: string;
 }
-
+//props add
 export interface HomeProps {
   searchParams: FilterProps;
 }
