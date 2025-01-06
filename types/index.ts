@@ -28,6 +28,7 @@ export interface HomeProps {
   searchParams: FilterProps;
 }
 
+//props add
 export interface CarCardProps {
   model: string;
   make: string;
