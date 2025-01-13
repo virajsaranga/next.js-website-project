@@ -5,6 +5,7 @@ import Image from "next/image";
 //custom button add
 import { CustomButton } from "@components";
 
+//hero function
 const Hero = () => {
   const handleScroll = () => {
     const nextSection = document.getElementById("discover");
