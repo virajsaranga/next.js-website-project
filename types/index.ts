@@ -38,7 +38,7 @@ export interface CarCardProps {
   drive: string;
   cityMPG: number;
 }
-
+//props add
 export interface CustomButtonProps {
   isDisabled?: boolean;
   btnType?: "button" | "submit";
