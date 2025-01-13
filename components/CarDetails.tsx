@@ -11,7 +11,7 @@ interface CarDetailsProps {
   closeModal: () => void;
   car: CarProps;
 }
-
+//add car details
 const CarDetails = ({ isOpen, closeModal, car }: CarDetailsProps) => (
   <>
     <Transition appear show={isOpen} as={Fragment}>
